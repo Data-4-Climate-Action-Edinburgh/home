@@ -10,21 +10,20 @@
 ############################
 
 # Name of website
-title: My Website
+title: Data 4 Climate Action Edinburgh
 
 # Your name to show in the footer
-author: Some Person
+author: Data 4 Climate Action Edinburgh / Pauline Ward
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "about"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
