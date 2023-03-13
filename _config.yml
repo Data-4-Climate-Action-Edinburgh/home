@@ -50,7 +50,7 @@ round-avatar: true
 social-network-links:
   email: "data4climateactionedinburgh@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
+  facebook: https://www.facebook.com/groups/740083810421505/?ref=share
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
