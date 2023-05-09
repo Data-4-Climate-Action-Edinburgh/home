@@ -1,4 +1,4 @@
-# D4CA joins ECAN # 
+# D4CAE joins ECAN # 
 
 Data 4 Climate Action has joined the Edinburgh communities Climate Action Network. Our details are now listed on ECAN's website along with our offer of help:   
 
@@ -7,7 +7,7 @@ Data 4 Climate Action has joined the Edinburgh communities Climate Action Networ
    
 Joining the network has already allowed us to connect with local climate action groups, to discuss how we can help them.   
    
-I have started providing practical support to ECAN, on their contacts data, working with Sarah McArthur, ECAN's wonderful Edinburgh Network Coordinator. I helped Sarah select and set up a contacts database on a suitable system that has features she'll be able to use to save time and keep in touch with ECAN's stakeholders. We imported existing data from two sources into one. And we have more to do, automating workflows and so on. It is a great feeling, to be helping out in a concrete way and I'm really looking forward to supporting other ECAN members with their data.   
+I (Pauline) have started providing practical support to ECAN, on their contacts data, working with Sarah McArthur, ECAN's wonderful Edinburgh Network Coordinator. I helped Sarah select and set up a contacts database on a suitable system that has features she'll be able to use to save time and keep in touch with ECAN's stakeholders. We imported existing data from two sources into one. And we have more to do, automating workflows and so on. It is a great feeling, to be helping out in a concrete way and I'm really looking forward to supporting other ECAN members with their data.   
    
 Readers, whether individuals or groups, are welcome to join the network too, at: 
 
