@@ -8,7 +8,7 @@ The Edinburgh Climate Festival of 2022 was an excellent event. We held a stall t
 
 I made a table in Excel, produced a pie chart and popped it on the facebook page. Small data. 
 
-![pie chart showing survey results](../img_blog/D4CAE_img_ECF-poll-result-chart.png)
+![pie chart showing survey results](img_blog/D4CAE_img_ECF-poll-result-chart.png)
 
 Then I discovered the "Storytelling with data" blog and book by Cole Nussbaumer Knaflic. [www.storytellingwithdata.com](https://www.storytellingwithdata.com/) . Turns out, pie charts are not ideal for visualising comparisons of this kind, because the human brain finds it a little challenging to compare the respective sizes of the slices of the pie. Far better to plot bars, ordered by size, with the highest at the top, much clearer!  Even small data deserves good storytelling. So I used Tableau Public, a free data visualisation tool for open datasets, to produce a bar chart: 
 
