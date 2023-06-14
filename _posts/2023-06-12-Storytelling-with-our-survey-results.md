@@ -4,11 +4,11 @@ This group, Data 4 Climate Action Edinburgh, is about learning and sharing skill
 
 The Edinburgh Climate Festival of 2022 was an excellent event. We held a stall there (with thanks to Jennifer and Tracy for their essential help, and thanks to University of Edinburgh for the gazebo), to ask people how they'd like us to direct our energies. We invited attendees to cast their votes for one or more different data-related activities, our potential areas of work, by popping casino chips into labelled paper cups representing several different categories. I counted the chips. The story of the day was that the most popular activity by far was 'storytelling with data'.  
 
-![Pauline and Jennifer with the stall at the festival](img_blog/Data4CAE_stall_at_ECF_3sep2022_h240px.jpg) 
+![Pauline and Jennifer with the stall at the festival](/assets/img/d4cae_stall_at_ecf_3sep2022_h240px.jpg) 
 
 I made a table in Excel, produced a pie chart and popped it on the facebook page. Small data. 
 
-![pie chart showing survey results](/assets/img/D4CAE_img_ECF-poll-result-chart.png)
+![pie chart showing survey results](/assets/img/d4cae_ecf_poll_pie_chart.png)
 
 Then I discovered the "Storytelling with data" blog and book by Cole Nussbaumer Knaflic. [www.storytellingwithdata.com](https://www.storytellingwithdata.com/) . Turns out, pie charts are not ideal for visualising comparisons of this kind, because the human brain finds it a little challenging to compare the respective sizes of the slices of the pie. Far better to plot bars, ordered by size, with the highest at the top, much clearer!  Even small data deserves good storytelling. So I used Tableau Public, a free data visualisation tool for open datasets, to produce a bar chart: 
 
