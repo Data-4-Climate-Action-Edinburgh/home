@@ -1,16 +1,10 @@
----
-title: "Blogpost: Storytelling, with something better than a pie chart"
-tags: [climate, data analysis]
-date: 2022-06-12 
----
-
 # Blogpost: Storytelling, with something better than a pie chart
 
 This group, Data 4 Climate Action Edinburgh, is about learning and sharing skills as much as anything else. That's what's behind our latest creation - a simple data visualisation. But one that tells a story. I will go back to the beginning...
 
 The Edinburgh Climate Festival of 2022 was an excellent event. We held a stall there (with thanks to Jennifer and Tracy for their essential help, and thanks to University of Edinburgh for the gazebo), to ask people how they'd like us to direct our energies. We invited attendees to cast their votes for one or more different data-related activities, our potential areas of work, by popping casino chips into labelled paper cups representing several different categories. I counted the chips. The story of the day was that the most popular activity by far was 'storytelling with data'.  
 
-![Pauline and Jennifer with the stall at the festival](/assets/img/Data4CAE_stall_at_ECF_3sep2022_h240px.jpg) 
+![Pauline and Jennifer with the stall at the festival](../img_blog/Data4CAE_stall_at_ECF_3sep2022_h240px.jpg) 
 
 I made a table in Excel, produced a pie chart and popped it on the facebook page. Small data. 
 
