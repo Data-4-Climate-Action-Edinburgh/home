@@ -1,3 +1,9 @@
+---
+title: "Blogpost: Storytelling, with something better than a pie chart"
+tags: [climate, data analysis]
+date: 2022-06-12 
+---
+
 # Blogpost: Storytelling, with something better than a pie chart
 
 This group, Data 4 Climate Action Edinburgh, is about learning and sharing skills as much as anything else. That's what's behind our latest creation - a simple data visualisation. But one that tells a story. I will go back to the beginning...
