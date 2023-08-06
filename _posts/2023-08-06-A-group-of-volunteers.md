@@ -1,12 +1,10 @@
-# A group of volunteers
-
 Pauline Ward, 6 August 2023
 
-I recently gave a presentation about the purpose, the evolution and the activities of Data 4 Climate Action Edinburgh at a conference. In this blogpost, I share the abstract, the slides, and a link to the video of my talk. The event was the Edinburgh Open Research Conference, run by the wonderful Kerry Miller and Neil Coleman of the University of Edinburgh's Library Research Support service. The conference theme was "Open Research as a Tool for Addressing Global Challenges", very apt for our work. I recruited several new members through the event, who immediately started making a real contribution to our work, so I'm really thankful to have been invited to speak. 
+I recently gave a presentation about the purpose, the evolution and the activities of Data 4 Climate Action Edinburgh at a conference. In this blogpost, I share the abstract, the slides, and a link to the video of the talk I gave on 16 May 2023. The event was the Edinburgh Open Research Conference, run by the wonderful Kerry Miller and Neil Coleman of the University of Edinburgh's Library Research Support service. The conference theme was "Open Research as a Tool for Addressing Global Challenges", very apt for our work. I recruited several new members through the event, who immediately started making a real contribution to our work, so I'm really thankful to have been invited to speak. 
 
 ![Pauline speaking with a slide in the background](/home/assets/img/Screenshot2023-08-06_125109_hands_to_the_left_cropped.png)
 
-## Lightning talk abstract: Data 4 Climate Action Edinburgh 
+## Lightning talk abstract: "Data 4 Climate Action Edinburgh" 
 
 Data 4 Climate Action Edinburgh is a group of volunteers, donating our time and skills with data to support climate action and biodiversity in and around Edinburgh.   
 
