@@ -31,7 +31,7 @@ The terms and conditions state the user may print up to 50 copies. And the Dynam
 
 The map launches with a view showing Montrose, but you can easily pan and zoom to display Edinburgh's coast. If anything, the Dynamic Coast map is more difficult to interpret because the many layers use similar shades of red. It would require quite a bit of time to be able to draw firm conclusions from it. 
 
-It shouldn't be this difficult to share flood maps that have been created using public money. However, there are open source tools that citizen scientists can use for mapping this data ourselves. If a new volunteer wants to come forward to do that work, and maybe create some online tutorial materials about how to do so, that would be most welcome. Just send an email to me using the address on the Contact page. 
+It shouldn't be this difficult to share flood maps that have been created using public money. However, there are open source tools that citizen scientists can use for mapping this data ourselves. If a new volunteer wants to come forward to do that work, and maybe create some online tutorial materials about how to do so, that would be most welcome. Just send an email to me using the address on the About page. 
 
 All best, 
 Pauline 
