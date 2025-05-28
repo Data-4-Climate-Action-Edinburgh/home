@@ -9,7 +9,7 @@ title: Links
 
 * [EBRIC - Edinburgh Building Retrofit and Improvement Collective](https://edinbric.scot)
 
-* [Climate Action Map - Net Zero Edinburgh Leadership Board and Kira Myers of the Edinburgh Climate Change Institute] (https://experience.arcgis.com/experience/c2714dd1647449bca511d7f445b73f29/?draft=true) 
+* [Climate Action Map - Net Zero Edinburgh Leadership Board and Kira Myers of the Edinburgh Climate Change Institute](https://experience.arcgis.com/experience/c2714dd1647449bca511d7f445b73f29/?draft=true) 
 ... with video walk-through. 
 
 
