@@ -11,4 +11,5 @@ If you could use some help with your climate or biodiversity data,
   <a href="mailto:data4climateactionedinburgh@gmail.com">data4climateactionedinburgh@gmail.com</a>
   !
 
-The facebook group has been retired. 
+Follow us: 
+[D4CAE on BlueSky](https://bsky.app/profile/d4cae.bsky.social)
