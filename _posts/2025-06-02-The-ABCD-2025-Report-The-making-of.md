@@ -28,7 +28,7 @@ I can confirm that my plan now is to carry on, with this as an annual report. Po
 
 It would be cool if we could do more mapping (this was a significant technical challenge, as we've documented, so it's certainly an area for potential upskilling). 
 
-However, an even higher priority is to make a concrete difference by providing help to climate action groups. We always see an ebb and flow of new members joining with skills they want to apply, and groups asking us to help with projects. And we usually manage to match them reasonably well. This annual report provides lots of new options for how volunteers can contribute and stay engaged. I'd be delighted to get some help with the gathering of data, number-crunching, comparing, mapping, drafting, editing, and potentially covering different aspects of climate. And some of the analyses can be done in advance, as stand-alone projects, resulting in blogposts. Or even, in an ideal world, a dashboard. Not making any promises! I myself want to learn more RShiny, so that's a big motivating factor for me. And there's no shame in volunteers building skills along the way, that's the name of the game nowadays. But if anyone wants to help me with it, give me a shout!  
+However, an even higher priority is to make a concrete difference by providing help to climate action groups. We always see an ebb and flow of new members joining with skills they want to apply, and groups asking us to help with projects. And we usually manage to match them reasonably well. We can offer help with everything from calculating a carbon footprint to drawing up a data sharing agreement. This annual report provides lots of new options for volunteers as to how they can contribute to the group and stay engaged. I'd be delighted to get some help with the gathering of data, number-crunching, comparing, mapping, drafting, editing, and potentially covering different aspects of climate. And some of the analyses can be done in advance, as stand-alone projects, resulting in blogposts. Or even, in an ideal world, a dashboard. Not making any promises! I myself want to learn more RShiny, so that's a big motivating factor for me. And there's no shame in volunteers building skills along the way, that's the name of the game nowadays. But if anyone wants to help me with it, give me a shout!  
 
 Speaking of socials, I've created [a new BlueSky account for D4CAE](https://bsky.app/profile/d4cae.bsky.social). Give us a follow!
 
@@ -41,6 +41,6 @@ If you'd like to join the D4CAE mailing list, and/or volunteer to help with any 
 Finally, 2024 was a tough year for me. I'd really like to thank my friends, family and volunteers for sustaining me and D4CAE through it. I'm very glad to be back, permanently settled in beautiful, inspiring Edinburgh. Carrying on the climate effort feels tough sometimes, but always worth it, for the camaraderie and the sense of hope. We must keep the light of optimism in our hearts. 
 
 
-Pauline Ward
+Pauline Ward   
 Founder, Data 4 Climate Action Edinburgh
 
