@@ -44,3 +44,7 @@ Finally, 2024 was a tough year for me. I'd really like to thank my friends, fami
 Pauline Ward   
 Founder, Data 4 Climate Action Edinburgh
 
+[![](/home/assets/img/grey_heart_yellow_sunlight.png){fig-alt="drawing of a grey heart with a sun symbol shining yellow light within it"}]
+
+Image credit: adapted from work by PixLoger on Pixabay https://commons.wikimedia.org/wiki/File:Red-Heart-vector-2731436.svg
+
