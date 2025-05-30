@@ -187,7 +187,7 @@ ul.task-list li input[type="checkbox"] {
 <p>(SEPA Flood Maps)</p>
 <p>Increasing rainfall will increase the risk of surface water flooding and river flood risk.</p>
 <p>Rising sea levels will increase the risk of coastal flooding.</p>
-<p>Further details on how to use SEPA Flood Maps can be found in the <a href="https://github.com/search?q=repo%3Adata4climateactionedinburgh%2Fabcd_2025%20Methods.html&amp;type=code">Methods section Methods.html</a>.</p>
+<p>Further details on how to use SEPA Flood Maps can be found in the <a href="/home/Methods_section_ABCD_2025.html">Methods section Methods_section_ABCD_2025.html</a>.</p>
 </section>
 <section id="extreme-weather---storm-eowyn" class="level2">
 <h2 class="anchored" data-anchor-id="extreme-weather---storm-eowyn">Extreme weather - Storm Eowyn</h2>
