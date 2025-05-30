@@ -3,7 +3,7 @@
     "path": "C:/fab_repos/home/Methods_section_ABCD_2025.html",
     "project_path": "Methods_section_ABCD_2025.html",
     "type": "html",
-    "hash": "4050270400",
+    "hash": "197149151",
     "contents": "",
     "dirty": false,
     "created": 1748583726955.0,
@@ -11,14 +11,16 @@
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "126,30",
+        "scrollLine": "111"
     },
     "folds": "",
-    "lastKnownWriteTime": 1748583755,
+    "lastKnownWriteTime": 1748584768,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1748583755,
+    "last_content_update": 1748584768765,
     "read_only": false,
     "read_only_alternatives": []
 }
