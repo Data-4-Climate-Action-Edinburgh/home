@@ -1,6 +1,6 @@
 # The ABCD 2025 Report - The making of
 
-I am thrilled and quite proud, I won't lie, to see this group's [ABCD report published on the ECCAN website](https://www.eccan.scot/d4cae-report). It is in HTML format for accessibility, but is also available in a PDF version for portability, the content in the two is identical. 
+I am very happy and totally chuffed, to see this group's [ABCD report published online](/home/ABCD_2025.html). It is in HTML format for accessibility, but is also available in a PDF version for portability, the content in the two is identical. 
 
 The report describes a bunch of data about climate action and climate impacts affecting Edinburgh. Six months' work has gone into this fairly exhausting but far from exhaustive document! I want to thank all the friends and volunteers who kindly provided input and feedback, resulting in a much higher quality overall, and without whom it most certainly would never, ever have gotten finished. Ever! 
 
