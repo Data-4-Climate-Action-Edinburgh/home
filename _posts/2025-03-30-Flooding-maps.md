@@ -12,11 +12,11 @@ We knew from the one-off survey we ran at Edinburgh Climate Festival 2023 that t
 
     -   In each of the three flooding types listed above, you can select high, medium and low likelihood - we suggest just picking high and medium.
 
-![Map Content icon](/home/assets/img/Map_Content_icon.png){fig-alt="the icon looks like a pile of layers"}
+[![Map Content icon](/home/assets/img/Map_Content_icon.png){fig-alt="the icon looks like a pile of layers"}]
 
 -   Click 'Map Key' to display the map legend.
 
-    ![Map Key icon](/home/assets/img/Map_Key_icon.png)
+    [![Map Key icon](/home/assets/img/Map_Key_icon.png){fig-alt="icon that looks like a map legend"}]
 
 -   If the legend is empty, and the map is not showing any colour highlighting, you may need to zoom in closer, and wait a couple of seconds for the colour highlighting to be added. Note that when you grab and drag the map to pan to a different area, at first the area does not show the highlighting - you need to release the drag and wait for a couple of seconds for it to refresh.
 
