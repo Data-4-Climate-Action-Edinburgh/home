@@ -1,6 +1,6 @@
 # The ABCD 2025 Report - The making of
 
-I am very happy and totally chuffed, to see this group's [ABCD report published online](/home/ABCD_2025.html). It is in HTML format for accessibility, but is also available in a PDF version for portability, the content in the two is identical. 
+I am thrilled and delighted to see this group's [ABCD report announced one the ECCAN website](https://www.eccan.scot/climate-data). It is in HTML format for accessibility, but is also available in a PDF version for portability, the content in the two is identical - see [our new Publications page](/home/Publications) for the DOI as well. 
 
 The report describes a bunch of data about climate action and climate impacts affecting Edinburgh. Six months' work has gone into this fairly exhausting but far from exhaustive document! I want to thank all the friends and volunteers who kindly provided input and feedback, resulting in a much higher quality overall, and without whom it most certainly would never, ever have gotten finished. Ever! 
 
@@ -11,7 +11,7 @@ The main goal was to showcase what D4CAE can do for the climate action groups wo
 
 ![bicycle wheels plot](/home/assets/img/Daily_total_cycling_2016_to_2024.png)
 
-Another aim was to make climate change feel relevant to people in their local area, to things they care about. I think this finished report will do that. Some of the eye-catching points: 
+Another aim was to make climate change feel relevant to people in their local area, to things they care about. Today 5th of June, UN World Environment Day, I think this finished report will do that. Some of the eye-catching points: 
  - the city is one degree warmer than it was in the 1980s
  - the council's own carbon footprint was falling, but progress has slowed to a standstill
  - the flood risk in the area around Waverley station is high
