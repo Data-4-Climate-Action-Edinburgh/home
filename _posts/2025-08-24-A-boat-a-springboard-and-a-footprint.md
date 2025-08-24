@@ -1,27 +1,22 @@
 # A boat, a springboard and a footprint
 
-I am thrilled and quite proud, I won't lie, to see this group's [ABCD report published on the ECCAN website](https://www.eccan.scot/d4cae-report). It is in HTML format for accessibility, but is also available in a PDF version for portability, the content in the two is identical. 
+It's a wonderful feeling when you can give people a number, in answer to their climate data question. 
 
-The report describes a bunch of data about climate action and climate impacts affecting Edinburgh. Six months' work has gone into this fairly exhausting but far from exhaustive document! I want to thank all the friends and volunteers who kindly provided input and feedback, resulting in a much higher quality overall, and without whom it most certainly would never, ever have gotten finished. Ever! 
+We received a request for help from Fountainbridge Canalside Community Trust. They wanted to know how much carbon they could save by replacing their boat with an electric one. And they were hoping to be able to use this figure to persuade funders to help them with getting the money together to be able to place the order for a new, electric boat. The current barge, the Lochrin Belle, needs replacing anyway, so I needed to make a direct comparison based on the running of the boat.  
 
-The main goal was to showcase what D4CAE can do for the climate action groups working in Edinburgh. This group exists to help groups working to reduce the city's carbon footprint, or to help the city adapt to climate change, including those working to support biodiversity in and around Edinburgh. The report is an illustration of our capabilities in things like: 
- - data storytelling (you asked, and we answered!)
- - data visualisation (eg the bicycle wheels scatter plot drawn with R, and the graphite grey carbon footprint line graphs produced with Excel; NB we have volunteers who use Python, Power BI and Tableau Public too) 
- - data analysis (yes we found, sifted and commented on infographics from the Met Office and University of Reading)
+The gauntlet had been well and truly thrown down. I did not have the skills at the time to calculate that figure. Luckily I heard about some training that would be very relevant. 
 
-![bicycle wheels plot](/home/assets/img/Daily_total_cycling_2016_to_2024.png)
+The Climate Springboard course is offered by the Edinburgh Climate Change Institute, part of the University of Edinburgh. The course is free for small to medium businesses in Scotland, and there are a modest number of places available for charities too.  
 
-Another aim was to make climate change feel relevant to people in their local area, to things they care about. I think this finished report will do that. Some of the eye-catching points: 
- - the city is one degree warmer than it was in the 1980s
- - the council's own carbon footprint was falling, but progress has slowed to a standstill
- - the flood risk in the area around Waverley station is high
- - the flood risk around Leith shore area is high
- - the city has suffered a dangerous, severe weather event in the shape of Storm Eowyn
+to be continued... 
+
+
+![Pauline in front of the Lochrin Belle barge](/home/assets/img/PW_infrontof_moored_LB20250823_135706.jpg.png)
 
 
 
+## Afore ye go...
 If you're part of a climate or biodiversity voluntary group or charity in Edinburgh, and you'd like us to provide some data support, please email me on data4climateactionedinburgh@gmail.com . We'd love to hear from you. 
-
 
 
 If you'd like to join the D4CAE mailing list, and/or volunteer to help, please drop me an email on data4climateactionedinburgh@gmail.com you'll be most welcome. 
