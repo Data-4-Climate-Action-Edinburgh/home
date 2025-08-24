@@ -2,13 +2,13 @@
 
 I am delighted to write of our latest good works. 
 
-Please see [our new Publications page](/home/Publications) where you can find our latest analysis.
+Please see [our new Publications page](/home/Publications) where you can find our latest analysis. 
 
 Here's a publication [ABCD report published on the ECCAN website](https://www.eccan.scot/d4cae-report). It is in HTML format for accessibility, but is also available in a PDF version for portability, the content in the two is identical. 
 
 
 
-The report describes a bunch of data about climate action and climate impacts affecting Edinburgh. Several months' work has gone into this! 
+The report describes a bunch of data about climate action and climate impacts affecting Edinburgh. Several months' work has gone into this! I wrote about some aspects of the project in an earlier blogpost: <https://data-4-climate-action-edinburgh.github.io/home/2025-06-05-The-ABCD-2025-Report-The-making-of/>
 
 I want to thank all the volunteers who kindly provided input and feedback - a superb team effort! 
 
