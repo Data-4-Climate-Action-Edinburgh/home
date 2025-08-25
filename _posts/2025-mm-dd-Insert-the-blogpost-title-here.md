@@ -32,11 +32,11 @@ A nice link with a proper title.
 [Dynamic Coast](https://www.dynamiccoast.com/webmaps) 
 
 
-If you're part of a climate or biodiversity voluntary group or charity in Edinburgh, and you'd like us to provide some data support, please email me on data4climateactionedinburgh@gmail.com . We'd love to hear from you. 
+If you're part of a climate or biodiversity voluntary group or charity in Edinburgh, and you'd like us to provide some data support, please email me on [data4climateactionedinburgh@gmail.com](mailto:data4climateactionedinburgh@gmail.com) . We'd love to hear from you. 
 
 
 
-If you'd like to join the D4CAE mailing list, and/or volunteer to help, please drop me an email on data4climateactionedinburgh@gmail.com you'll be most welcome. 
+If you'd like to join the D4CAE mailing list, and/or volunteer to help, please drop me an email on [data4climateactionedinburgh@gmail.com](mailto:data4climateactionedinburgh@gmail.com) you'll be most welcome. 
 
 
 Pauline Ward   
