@@ -19,10 +19,10 @@ The main goal was to showcase what D4CAE can do for the climate action groups wo
  - data analysis
 
 A static image chart: 
-![bicycle wheels plot](/home/assets/img/Daily_total_cycling_2016_to_2024.png)
+![alt text apparently? bicycle wheels plot](/home/assets/img/Daily_total_cycling_2016_to_2024.png)
 
 A static image icon: 
- ![Map Key icon](/home/assets/img/Map_Key_icon.png)
+ ![alt text Map Key icon](/home/assets/img/Map_Key_icon.png "title seen in mouseover")
 
 Another aim was to make climate change feel relevant to people in their local area. Some key points: 
  - the city is one degree warmer than it was in the 1980s
