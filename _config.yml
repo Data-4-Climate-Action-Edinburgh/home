@@ -17,13 +17,19 @@ author: Data 4 Climate Action Edinburgh / Pauline Ward
 
 ###############################################
 # --- List of links in the navigation bar --- #
+# This seems to be the easiest place to add nav
+# navbar items ie pages. 
 ###############################################
 
 navbar-links:
   About Us: "about"
+  Publications: "publications"
+  Quick links: "quick_links"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - D4CAE code repo: "https://github.com/data4climateactionedinburgh/Data4ClimateActionEdinburgh_Code_etc"
+    - D4CAE report repo: "https://github.com/data4climateactionedinburgh/abcd_2025"
+  Socials:
+    - BlueSky: "https://bsky.app/profile/d4cae.bsky.social"
 
 ################
 # --- Logo --- #
