@@ -4,9 +4,11 @@ It's a wonderful feeling when you can deliver for someone who has asked for prac
 
 Last year Rachel Sedman from Fountainbridge Canalside Community Trust (FCCT) contacted us. Rachel wanted to know how much carbon FCCT could save by replacing their boat with an electric one. And the trust was hoping to be able to use this figure to persuade funders to help them get the money together to be able to place the order for a new, electric boat. The current barge, the Lochrin Belle, needs replacing anyway, so I needed to make a direct comparison based on the running of the boat.
 
-The gauntlet had been well and truly thrown down. I did not have the skills myself, so I undertook the Climate Springboard course. The Climate Springboard training was truly excellent, very informative and enjoyable. I've written about that in an earlier blogpost - see \<2025-08-25-The-Climate-Springboard-trained-me-to-calculate-carbon-footprints\> I was fortunate to get a place on the course just at the right time for my project with FCCT.
+The gauntlet had been well and truly thrown down. I did not have the skills myself, so I undertook the Climate Springboard course. The Climate Springboard training was truly excellent, very informative and enjoyable. I've written about that in an earlier blogpost - see [The Climate Springboard trained me to calculate carbon footprints](https://data-4-climate-action-edinburgh.github.io/home/2025-08-25-The-Climate-Springboard-trained-me-to-calculate-carbon-footprints/){.uri}. I was fortunate to get a place on the course just at the right time for my project with FCCT.
 
-I gathered the data. The annual mileage covered by the boat. The average speed. The sources of energy. The carbon emissions associated with each unit of energy. I corroborated the numbers. I produced an estimate. The Climate Springboard team gave me feedback.
+I gathered the data. The annual mileage covered by the boat. The average speed. The sources of energy. The carbon emissions associated with each unit of energy. I corroborated the numbers. I produced an estimate. The Climate Springboard team gave me feedback. 1.7 tonnes of carbon every year would be saved by switching to an electric barge. A significant amount!!!
+
+FCCT shared the number with their stakeholders.
 
 I'm still working with FCCT, helping them on their carbon journey.
 
