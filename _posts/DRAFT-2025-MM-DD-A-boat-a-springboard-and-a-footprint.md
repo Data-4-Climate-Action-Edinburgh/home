@@ -12,11 +12,13 @@ I'm still working with FCCT, helping them on their carbon journey.
 
 ![Rachel](images/rachel20250823_134455.jpg "Rachel grinning with a high viz vest and clipboard in front of the canal")
 
-I was delighted to take a trip on the barge, the Lochrin Belle, in August. It was very sweet every time we went under a bridge the children called out "Echo! Echo! Echo!". I really enjoyed meeting more of the wonderful FCCT volunteers. Christine provides superb coffee and conversation aboard the barge.
+I was delighted to take a trip on the barge, the Lochrin Belle, in August. There was a carnival atmosphere, as it was the day of the raft race. On the barge, there were loads of families, and it was very sweet every time we went under a bridge the children called out "Echo! Echo! Echo!". I really enjoyed meeting more of the wonderful FCCT volunteers. Christine provides superb coffee and conversation aboard the barge.
 
 ![Excellent coffee and convo with Christine on board](images/PW_and_christine20250823_141232.jpg "Pauline and Christine standing inside the barge with the greenery visible through the windows")
 
 ![Prow to stern](images/Lochrin_Belle_prow_to_stern_20250823_135714.jpg "Full length of the boat prow to stern moored on the canal Pauline in front")
+
+If you'd like to take a boat trip on the Union Canal while supporting FCCT, bookings are through [Re-Union Canal Boats](https://www.re-union.org.uk/ "website of the social enterprise that runs the boats").
 
 ## Afore ye go...
 
