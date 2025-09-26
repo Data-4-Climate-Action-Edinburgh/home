@@ -10,6 +10,22 @@ I gathered the data. The annual mileage covered by the boat. The average speed. 
 
 You can find my workings on our GitHub account: <https://github.com/data4climateactionedinburgh/Data4ClimateActionEdinburgh_Code_etc/tree/main/data/FCCT_barge>
 
+|   | Estimated mileage 2024 | Hours | Fuel consumption (ltr / h @ 1.75mph) | 2024 consumption (ltr) | Emission factor (kgCO2eq / ltr) | Est. carbon emissions 2024 (kg CO2) |
+|-----------|---------|-------|-----------|-----------|------------|------------|
+| Engine / drive | 1,000 | 506 | 2.5 | 1,265 | 2.67 | 3,378 |
+| Generator | N/A | 1,046 | 0.17 | 181 | 2.67 | 483 |
+| Engine + generator |  |  |  | 1,446 | 2.67 | 3,861 |
+
+: Numerical comparison between diesel and electric barge
+
+|   | Est. 2024 emissions | Electrical energy equivalent rate (kW) | 2026 projected consumption (kWh) | Emission factor for electricity | Est. 2026 emissions (kg CO2) | Est. reduction (kg CO2) | Est. emissions reduction (tonnes CO2) |
+|----|----|----|----|----|----|----|----|
+| Engine / drive | 3,378 | 20 | 10,120 | 0.20705 | 2,095 | 1,282 | 1.3 |
+| Generator | 483 | 0.08 | 83.68 | N/A | 48.33 | 435 | 0.4 |
+| Engine + generator | 3,861 |  |  |  |  | 1,717 | 1.7 |
+
+: Second part of numerical comparison for electric barge
+
 FCCT shared the number with their stakeholders, garnering very positive reactions. They have used the 1.7 tonne figure to help secure grant and loan funding with [Foundation Scotland](https://www.foundationscotland.org.uk/). Rachel said "They were really impressed, and I think it helped to show we are serious for this project and as an organisation about thinking and acting sustainably. We plan to also use the figure in our upcoming Crowdfunder appeal to make our ‘fleet all-electric!’ (We hope Waterwitch will be undergoing a retrofit project!) From this we should get feedback from the general public and our local community – hopefully their support 😊".
 
 I'm still working with FCCT, helping them on their carbon journey.
