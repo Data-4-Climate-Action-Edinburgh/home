@@ -8,7 +8,9 @@ The gauntlet had been well and truly thrown down. I did not have the skills myse
 
 I gathered the data. The annual mileage covered by the boat. The average speed. The sources of energy. The carbon emissions associated with each unit of energy. I corroborated the numbers. I produced an estimate. The Climate Springboard team gave me feedback. 1.7 tonnes of carbon every year would be saved by switching to an electric barge. A significant amount!!!
 
-FCCT shared the number with their stakeholders.
+You can find my workings on our GitHub account: <https://github.com/data4climateactionedinburgh/Data4ClimateActionEdinburgh_Code_etc/tree/main/data/FCCT_barge>
+
+FCCT shared the number with their stakeholders, garnering very positive reactions. They have used the 1.7 tonne figure to help secure grant and loan funding with [Foundation Scotland](https://www.foundationscotland.org.uk/). Rachel said "They were really impressed, and I think it helped to show we are serious for this project and as an organisation about thinking and acting sustainably. We plan to also use the figure in our upcoming Crowdfunder appeal to make our ‘fleet all-electric!’ (We hope Waterwitch will be undergoing a retrofit project!) From this we should get feedback from the general public and our local community – hopefully their support 😊".
 
 I'm still working with FCCT, helping them on their carbon journey.
 
