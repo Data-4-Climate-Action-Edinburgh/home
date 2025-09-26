@@ -54,9 +54,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "data4climateactionedinburgh@gmail.com"
-  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
- # facebook: "Data For 4 Climate Action Edinburgh"
-#  github: daattali
+   rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: "Data For 4 Climate Action Edinburgh"
+   github: Data-4-Climate-Action-Edinburgh
+   bluesky: d4cae
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -83,7 +84,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Voluntary group, Data 4 Climate Action Edinburgh
 
 ###########################
 # --- General options --- #
@@ -91,10 +92,12 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
+   github: true
+   bluesky: true
+#  twitter: true
+#  facebook: true
+#  linkedin: true
+#  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
