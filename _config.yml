@@ -22,10 +22,11 @@ author: Data 4 Climate Action Edinburgh / Pauline Ward
 ###############################################
 
 navbar-links:
-  About Us: "about"
-  Publications: "Publications"
-  D4CAE Dashboard: "dashboard"
+  Dashboard: "dashboard" 
+  Publications: "Publications" 
+  Blog: "index"
   Quick links: "quick_links"
+  About Us: "about"
   
 
 ################
