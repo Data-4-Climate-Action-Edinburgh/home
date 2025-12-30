@@ -1,3 +1,10 @@
+# D4CAE code repositories
+
+* [D4CAE code repo](https://github.com/data4climateactionedinburgh/Data4ClimateActionEdinburgh_Code_etc) 
+* [D4CAE report repo](https://github.com/data4climateactionedinburgh/abcd_2025)
+* [D4CAE dashboard repo](https://github.com/Data-4-Climate-Action-Edinburgh/D4CAE_dashboard)
+
+
 
 # Local climate action and biodiversity groups 
 
@@ -21,5 +28,4 @@
 * [Bike Life report - Sustrans](https://www.sustrans.org.uk/media/5965/bikelife19_edinburgh_web.pdf)
 
 * [Spokes cycling advocacy group](http://www.spokes.org.uk/)
-
 
