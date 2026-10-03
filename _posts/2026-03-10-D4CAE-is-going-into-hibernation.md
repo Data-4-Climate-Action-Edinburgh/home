@@ -9,10 +9,12 @@ Climate action is more important now than ever. But I have come to the realisati
 The good news however, is that I feel in a sense my work here is done - and the baton is or has passed to others. The group has not taken off the way I'd pictured. But originally I hoped the university would run this project as a climate hub, to collaborate with ECCAN's predecessor organisation. And I believe I see evidence that the functions I was trying to carry out with the group are happening elsewhwere, or there is potential for that to happen. For example: Edinburgh University had a stall at the Edinburgh Climate Festival last year; [ECCAN](https://www.eccan.scot/) has a data expert on the staff; City of Edinburgh Council publishes detailed carbon footprints every year as required under public sector reporting requirements. And our report did identify tools that are easy to use to produce nice visualisations of climate data relevant to Edinburgh - we published examples of those in our [ABCD report](https://data-4-climate-action-edinburgh.github.io/home/Publications/): 
 * [LCAT Local Climate Adaptation Tool](https://lcat.uk/)
 * Met Office [Local Authority Climate Explorer](https://climatedataportal.metoffice.gov.uk/apps/506ff7d53c884badb0d8fd36d6280a91)
-* University of Reading provide [climate stripes](https://showyourstripes.info/) 
+* University of Reading provide [climate stripes](https://showyourstripes.info/)  
+
+
 And there is a growing team of experts at Public Health Scotland identifying [health impacts across Scotland resulting from climate change](https://publichealthscotland.scot/population-health/environmental-health-impacts/climate-emergency/health-impacts-of-climate-change/). And a shift in the media towards mainstreaming of climate action - I always love to hear good news stories of people in Scotland working together on climate action.  
 
-There remain areas where things could improve though - for example, as I heard when I addressed the Edinburgh chapter of the Royal Statistical Society recently, there still are educators at Edinburgh University looking for projects for their students who want to collaborate with climate volunteers in the city. I never got to create a bulletin board for that purpose - it would have been much easier to do from inside the university. So I hope people in the university such as [ECCI](https://edinburghcentre.org/) and the university community engagement team will work with ECCAN, and perhaps the City of Edinburgh Council, to set up some kind of clearing house for student projects and potentially staff and student volunteering more widely. Rather than different teams in the university competing with each other to identify projects.  
+There remain areas where things could improve though. When I addressed the Edinburgh chapter of the Royal Statistical Society recently, I heard that there still are educators at Edinburgh University looking for projects for their students who want to collaborate with climate volunteers in the city. I never got to create a bulletin board for that purpose - it would have been much easier to do from inside the university. So I want to suggest in a constructive way, (because I'm hoping others may be able to succeed in this respect where I failed)... I hope people in the university such as [ECCI](https://edinburghcentre.org/) and the university community engagement team will work with ECCAN, and perhaps the City of Edinburgh Council, to set up some kind of clearing house for student projects and potentially staff and student volunteering more widely. Rather than different teams in the university competing with each other to identify projects.  
 
 So the upshot in practical terms is we won't be producing a D4CAE report any more. I won't run drop-ins or seek new projects. I'm not going to take down the dashboard, but I'm also not promising to update that. And I don't plan to do regular emails out to my volunteers. If I receive requests for support, I'll probably try to steer them to ECCAN or elsewhere. So it's a form of indefinite hibernation for D4CAE if you will, like a wee hedgehog. 
 
@@ -23,5 +25,6 @@ P
 Pauline Ward   
 Founder, Data 4 Climate Action Edinburgh
 
-[![](/home/assets/img/grey_heart_yellow_sunlight.png){fig-alt="drawing of a grey heart with a sun symbol shining yellow light within it"}]
+![drawing of a grey heart with a sun symbol shining yellow light within it](/home/assets/img/grey_heart_yellow_sunlight.png)
+
 
